@@ -9,4 +9,4 @@ var FOTO = [
   { src: "assets/foto/foto3.jpg", caption: "Gemasnyaa 🌹", fx: .55, fy: .46, fs: .85 }
 ];
 
-var MUSIK = { src: "assets/musik/beabadoobee - Glue Song.mp3", judul: "Yung Kai - Blue 🎶" };
+var MUSIK = { src: "assets/musik/beabadoobee - Glue Song.mp3", judul: "beabadoobee - Glue Song 🎶" };
